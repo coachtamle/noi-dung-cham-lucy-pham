@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-label="Lucy Pham">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="48%" r="72%">
+      <stop offset="0" stop-color="#099547"/>
+      <stop offset="0.62" stop-color="#07833d"/>
+      <stop offset="1" stop-color="#046b32"/>
+    </radialGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#00491f" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+  <rect width="720" height="720" fill="url(#bg)"/>
+  <g fill="#fff" filter="url(#soft)">
+    <path d="M302 112c-63 19-104 74-105 140-1 42 16 80 45 112 20 22 31 50 31 80v18h36v-40c0-31-7-61-21-89l-34-66 76-155z"/>
+    <path d="M418 112c63 19 104 74 105 140 1 42-16 80-45 112-20 22-31 50-31 80v18h-36v-40c0-31 7-61 21-89l34-66-76-155z"/>
+    <rect x="353" y="107" width="8" height="312" rx="4"/>
+    <circle cx="357" cy="250" r="23"/>
+    <rect x="303" y="450" width="108" height="38" rx="6"/>
+    <rect x="310" y="502" width="102" height="8" rx="4"/>
+    <rect x="318" y="522" width="86" height="8" rx="4"/>
+    <rect x="327" y="542" width="68" height="8" rx="4"/>
+    <path d="M334 564h55c-15 10-38 10-55 0z"/>
+  </g>
+</svg>

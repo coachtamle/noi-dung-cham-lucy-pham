@@ -1,0 +1,12 @@
+.astro/
+.wrangler/
+dist/
+node_modules/
+dev-server.log
+.env
+.env.*
+.dev.vars
+*.local
+*.log
+.tmp-*
+wrangler.local-old-db.jsonc

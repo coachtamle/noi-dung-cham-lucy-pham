@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 825" role="img" aria-labelledby="title desc">
+  <title id="title">Viết bài chuẩn SEO từ cơ bản</title>
+  <desc id="desc">Thumbnail phong cách editorial cho bài viết về SEO content.</desc>
+  <rect width="1200" height="825" fill="#EAF6F0"/>
+  <rect x="64" y="72" width="1072" height="681" rx="0" fill="#F8F0DC"/>
+  <circle cx="910" cy="168" r="132" fill="#9EDDD2"/>
+  <circle cx="987" cy="620" r="74" fill="#FFB84C"/>
+  <path d="M741 151h196v196H741z" fill="#063F3B"/>
+  <path d="M798 208h224v148H798z" fill="#FF6A2A"/>
+  <path d="M856 508l178 43-119 136z" fill="#F5A3B7"/>
+  <rect x="700" y="436" width="258" height="74" fill="#FFFFFF" opacity=".78"/>
+  <text x="108" y="188" fill="#063F3B" font-family="Arial, Tahoma, sans-serif" font-size="70" font-weight="800">
+    <tspan x="108" dy="0">Viết bài</tspan>
+    <tspan x="108" dy="82">chuẩn SEO</tspan>
+  </text>
+  <text x="112" y="371" fill="#063F3B" font-family="Arial, Tahoma, sans-serif" font-size="34" font-weight="700">
+    <tspan x="112" dy="0">Từ khóa, bố cục, tối ưu</tspan>
+    <tspan x="112" dy="48">và cách viết để website</tspan>
+    <tspan x="112" dy="48">có cơ hội lên top Google</tspan>
+  </text>
+  <rect x="112" y="604" width="266" height="74" fill="#063F3B"/>
+  <text x="146" y="651" fill="#FFFFFF" font-family="Arial, Tahoma, sans-serif" font-size="25" font-weight="800">TỪ CƠ BẢN ĐẾN A-Z</text>
+</svg>

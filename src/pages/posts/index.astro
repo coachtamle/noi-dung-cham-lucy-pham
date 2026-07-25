@@ -1,0 +1,482 @@
+---
+import { getEmDashCollection, getTermsForEntries } from "emdash";
+import Base from "../../layouts/Base.astro";
+import NewsletterSignup from "../../components/NewsletterSignup.astro";
+import { normalizeContentTitle } from "../../utils/content-text";
+import { getReadingTime } from "../../utils/reading-time";
+import { getPostFeaturedImage } from "../../utils/post-image";
+
+const { entries: posts, cacheHint } = await getEmDashCollection("posts", {
+	orderBy: { published_at: "desc" },
+});
+
+if (Astro.cache?.enabled) Astro.cache.set(cacheHint);
+
+const categoriesByEntry = await getTermsForEntries(
+	"posts",
+	posts.map((p) => p.data.id),
+	"category",
+);
+
+const categoryLabels: Record<string, string> = {
+	"chien-luoc-noi-dung": "Chiến lược nội dung",
+	"content-thau-cam": "Content thấu cảm",
+	"quan-tri-va-chien-luoc": "Quản trị & Chiến lược",
+	"phat-trien-su-nghiep": "Phát triển sự nghiệp",
+	"tong-giong-thuong-hieu": "Tông giọng thương hiệu",
+};
+
+const postsWithMeta = posts.map((post) => ({
+	post,
+	tags: (categoriesByEntry.get(post.data.id) ?? []).map((cat) => ({
+		slug: cat.slug,
+		label: categoryLabels[cat.slug] ?? cat.label,
+	})),
+	readingTime: getReadingTime(post.data.content),
+}));
+
+const pillars = [
+	{ label: "Chiến lược nội dung", slug: "chien-luoc-noi-dung" },
+	{ label: "Content thấu cảm", slug: "content-thau-cam" },
+	{ label: "Quản trị & Chiến lược", slug: "quan-tri-va-chien-luoc" },
+	{ label: "Phát triển sự nghiệp", slug: "phat-trien-su-nghiep" },
+	{ label: "Tông giọng thương hiệu", slug: "tong-giong-thuong-hieu" },
+];
+
+function formatDate(date?: string | Date | null) {
+	if (!date) return "";
+	return new Date(date).toLocaleDateString("vi-VN", {
+		day: "numeric",
+		month: "long",
+		year: "numeric",
+	});
+}
+---
+
+<Base
+	title="Góc chuyên môn - Nội Dung Chạm"
+	description="Góc chuyên môn của Lucy Phạm về Content Marketing, chiến lược nội dung, content thấu cảm và nghề Content."
+>
+	<div class="posts-wrapper">
+
+		<main class="posts-main">
+			<header class="posts-header">
+				<h1>Góc chuyên môn</h1>
+				<p class="posts-desc">Nơi Lucy chia sẻ trải nghiệm thực chiến, tư duy chiến lược và những góc nhìn về ngành Content Marketing.</p>
+				<div class="filter-tabs" data-post-filters>
+					<button type="button" class="tab is-active" data-filter="all" aria-pressed="true">Tất cả <span class="tab-count">{posts.length}</span></button>
+					{pillars.map((p) => (
+						<button type="button" class="tab" data-filter={p.slug} aria-pressed="false">{p.label} <span class="tab-count">{postsWithMeta.filter(({ tags }) => tags.some((tag) => tag.slug === p.slug)).length}</span></button>
+					))}
+				</div>
+			</header>
+
+			{posts.length === 0 ? (
+				<p class="empty-state">Bài viết đang được chuẩn bị, quay lại sớm nhé.</p>
+			) : (
+				<div class="post-list">
+					{postsWithMeta.map(({ post, tags, readingTime }) => (
+						<a href={`/posts/${post.id}`} class="post-row" data-categories={tags.map((tag) => tag.slug).join(" ")}>
+							<div class="post-thumb">
+								{getPostFeaturedImage(post.id, post.data.featured_image)
+									? <img src={typeof getPostFeaturedImage(post.id, post.data.featured_image) === "string" ? getPostFeaturedImage(post.id, post.data.featured_image) as string : (getPostFeaturedImage(post.id, post.data.featured_image) as any)?.src ?? ""} alt={normalizeContentTitle(post.data.title)} loading="lazy" />
+									: <div class="post-thumb-placeholder" aria-hidden="true" />
+								}
+							</div>
+							<div class="post-content">
+								{tags[0] && <span class="post-tag">{tags[0].label}</span>}
+								<h2 class="post-title">{normalizeContentTitle(post.data.title)}</h2>
+								{post.data.excerpt && <p class="post-excerpt">{post.data.excerpt}</p>}
+								<div class="post-meta">
+									<time>{formatDate(post.data.publishedAt)}</time>
+									{readingTime > 0 && <span>{readingTime} phút đọc</span>}
+								</div>
+							</div>
+						</a>
+					))}
+				</div>
+				<p class="empty-state filter-empty" hidden>Chưa có bài viết trong danh mục này.</p>
+			)}
+		</main>
+
+		<aside class="posts-sidebar">
+			<NewsletterSignup />
+
+			<div class="sidebar-widget sidebar-widget--quote">
+				<p>"Giá trị chân thật tạo nên kết nối sâu sắc"</p>
+			</div>
+
+			<div class="sidebar-widget">
+				<p class="widget-label">Chủ đề</p>
+				<div class="widget-tags">
+					{pillars.map((p) => (
+						<button type="button" class="widget-tag" data-filter={p.slug}>{p.label}</button>
+					))}
+				</div>
+			</div>
+
+			<div class="sidebar-widget">
+				<p class="widget-label">Liên hệ</p>
+				<div class="widget-contact">
+					<a href="mailto:lucypham.content@gmail.com">lucypham.content@gmail.com</a>
+					<a href="https://zalo.me/0988654321" target="_blank" rel="noopener noreferrer">Zalo: 0988 654 321</a>
+				</div>
+			</div>
+		</aside>
+
+	</div>
+</Base>
+
+<style>
+	.posts-wrapper {
+		display: grid;
+		grid-template-columns: minmax(0, 1fr) 260px;
+		gap: 3.5rem;
+		max-width: calc(var(--wide-width) + 2.5rem);
+		margin: 0 auto;
+		padding: 1.5rem 1.5rem 5rem;
+		align-items: start;
+	}
+
+	/* ── Header ── */
+	.posts-header {
+		margin-bottom: 2rem;
+		padding-bottom: 2rem;
+		border-bottom: 1px solid var(--color-border);
+	}
+
+	.posts-header h1 {
+		font-family: var(--font-serif);
+		margin-bottom: 0.5rem;
+		font-size: clamp(2rem, 4vw, 3rem);
+		letter-spacing: 0;
+	}
+
+	.posts-desc {
+		margin-bottom: 1.5rem;
+		color: var(--color-text-secondary);
+		font-size: var(--font-size-lg);
+		max-width: 560px;
+	}
+
+	.filter-tabs {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+	}
+
+	.tab {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4rem;
+		padding: 0.45rem 0.85rem;
+		background: transparent;
+		border: 1px solid var(--color-border);
+		border-radius: 20px;
+		color: var(--color-text-secondary);
+		font-family: var(--font-sans);
+		font-size: var(--font-size-sm);
+		font-weight: 600;
+		cursor: pointer;
+		transition: border-color 140ms ease, color 140ms ease, background 140ms ease;
+	}
+
+	.tab:hover {
+		border-color: var(--color-accent);
+		color: var(--color-accent);
+	}
+
+	.tab.is-active {
+		background: var(--color-accent);
+		border-color: var(--color-accent);
+		color: #fff;
+	}
+
+	.tab-count {
+		opacity: 0.75;
+		font-size: 0.75em;
+		font-weight: 700;
+	}
+
+	/* ── Post list ── */
+	.post-list {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.post-row {
+		display: grid;
+		grid-template-columns: minmax(240px, 34%) minmax(0, 1fr);
+		gap: 1.5rem;
+		padding: 1.5rem 0;
+		border-bottom: 1px solid var(--color-border);
+		color: inherit;
+		transition: opacity 160ms ease;
+		align-items: center;
+	}
+
+	.post-row:first-child {
+		padding-top: 0;
+	}
+
+	.post-row[hidden] {
+		display: none;
+	}
+
+	.post-row:hover {
+		opacity: 0.78;
+	}
+
+	.post-thumb {
+		position: relative;
+		overflow: hidden;
+		background: var(--color-surface);
+		border-radius: var(--radius);
+		flex-shrink: 0;
+		aspect-ratio: 16 / 9;
+	}
+
+
+	.post-thumb img {
+		width: 100%;
+		height: 100%;
+		display: block;
+		object-fit: cover;
+		object-position: center;
+	}
+
+	.post-thumb-placeholder {
+		width: 100%;
+		aspect-ratio: 16 / 9;
+		background: linear-gradient(135deg, var(--color-surface) 0%, var(--color-border) 100%);
+	}
+
+	.post-content {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		gap: 0.35rem;
+		min-width: 0;
+	}
+
+	.post-tag {
+		color: var(--color-accent);
+		font-size: var(--font-size-xs);
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+	}
+
+	.post-title {
+		font-family: var(--font-serif);
+		font-size: clamp(1.05rem, 1.45vw, 1.35rem);
+		font-weight: 700;
+		line-height: 1.35;
+		letter-spacing: 0;
+		color: var(--color-text);
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+
+	.post-excerpt {
+		color: var(--color-text-secondary);
+		font-size: var(--font-size-sm);
+		line-height: 1.55;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+
+	.post-meta {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		margin-top: 0.15rem;
+		color: var(--color-muted);
+		font-size: var(--font-size-xs);
+		font-weight: 500;
+	}
+
+	.post-meta span::before {
+		content: "·";
+		margin-right: 0.5rem;
+	}
+
+	.empty-state {
+		padding: 4rem 0;
+		color: var(--color-muted);
+		font-style: italic;
+	}
+
+	/* ── Right sidebar ── */
+	.posts-sidebar {
+		position: sticky;
+		top: 2rem;
+		display: flex;
+		flex-direction: column;
+		gap: 1.5rem;
+	}
+
+	.sidebar-widget {
+		padding: 1.25rem;
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-lg);
+	}
+
+	.sidebar-widget--quote {
+		border-color: var(--color-accent);
+		background: color-mix(in srgb, var(--color-accent) 4%, var(--color-bg));
+	}
+
+	.sidebar-widget--quote p {
+		font-family: var(--font-sans);
+		font-size: var(--font-size-base);
+		font-weight: 500;
+		line-height: 1.5;
+		color: var(--color-text);
+		font-style: italic;
+	}
+
+	.widget-label {
+		margin-bottom: 0.65rem;
+		color: var(--color-muted);
+		font-size: var(--font-size-xs);
+		font-weight: 800;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+	}
+
+	.widget-text {
+		margin-bottom: 1rem;
+		color: var(--color-text-secondary);
+		font-size: var(--font-size-sm);
+		line-height: 1.55;
+	}
+
+	.widget-cta {
+		display: inline-block;
+		color: var(--color-accent);
+		font-size: var(--font-size-sm);
+		font-weight: 700;
+		transition: opacity 140ms ease;
+	}
+
+	.widget-cta:hover {
+		opacity: 0.7;
+	}
+
+	.widget-tags {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+	}
+
+	.widget-tag {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		padding: 0;
+		border: 0;
+		background: transparent;
+		color: var(--color-text-secondary);
+		font-family: var(--font-sans);
+		font-size: var(--font-size-sm);
+		font-weight: 600;
+		text-align: left;
+		cursor: pointer;
+		transition: color 140ms ease;
+	}
+
+	.widget-tag::before {
+		content: "#";
+		color: var(--color-muted);
+		font-size: 0.85em;
+	}
+
+	.widget-tag:hover {
+		color: var(--color-accent);
+	}
+
+	.widget-tag.is-active {
+		color: var(--color-accent);
+	}
+
+	.widget-contact {
+		display: flex;
+		flex-direction: column;
+		gap: 0.45rem;
+	}
+
+	.widget-contact a {
+		color: var(--color-text-secondary);
+		font-size: var(--font-size-sm);
+		font-weight: 600;
+		transition: color 140ms ease;
+	}
+
+	.widget-contact a:hover {
+		color: var(--color-accent);
+	}
+
+	/* ── Responsive ── */
+	@media (max-width: 900px) {
+		.posts-wrapper {
+			grid-template-columns: 1fr;
+		}
+
+		.posts-sidebar {
+			position: static;
+			display: grid;
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+		}
+	}
+
+	@media (max-width: 600px) {
+		.post-row {
+			grid-template-columns: 1fr;
+			gap: 1rem;
+		}
+
+		.posts-sidebar {
+			grid-template-columns: 1fr;
+		}
+	}
+</style>
+
+<script>
+	const filterButtons = Array.from(document.querySelectorAll("[data-filter]"));
+	const postRows = Array.from(document.querySelectorAll(".post-row[data-categories]"));
+	const emptyState = document.querySelector(".filter-empty");
+
+	function applyPostFilter(filter) {
+		let visibleCount = 0;
+		postRows.forEach((row) => {
+			const categories = (row.dataset.categories || "").split(/\s+/).filter(Boolean);
+			const shouldShow = filter === "all" || categories.includes(filter);
+			row.hidden = !shouldShow;
+			if (shouldShow) visibleCount += 1;
+		});
+
+		filterButtons.forEach((button) => {
+			const isActive = button.dataset.filter === filter;
+			button.classList.toggle("is-active", isActive);
+			if (button.classList.contains("tab")) button.setAttribute("aria-pressed", String(isActive));
+		});
+
+		if (emptyState) emptyState.hidden = visibleCount > 0;
+	}
+
+	filterButtons.forEach((button) => {
+		button.addEventListener("click", () => {
+			const filter = button.dataset.filter || "all";
+			applyPostFilter(filter);
+			history.replaceState(null, "", filter === "all" ? "/posts" : `/posts#${filter}`);
+		});
+	});
+
+	const initialFilter = window.location.hash.replace(/^#/, "");
+	if (initialFilter) applyPostFilter(initialFilter);
+</script>

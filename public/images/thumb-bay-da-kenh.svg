@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 825" role="img" aria-labelledby="title desc">
+  <title id="title">Bẫy đa kênh</title>
+  <desc id="desc">Thumbnail phong cách editorial cho bài viết về bẫy làm quá nhiều kênh nội dung.</desc>
+  <rect width="1200" height="825" fill="#EAF6F0"/>
+  <rect x="80" y="92" width="1040" height="641" fill="#FFFFFF"/>
+  <rect x="742" y="132" width="292" height="188" fill="#08A8B2"/>
+  <rect x="804" y="286" width="292" height="188" fill="#F5A3B7"/>
+  <rect x="716" y="442" width="292" height="188" fill="#FFB84C"/>
+  <path d="M802 183l94 47-94 47z" fill="#FFFFFF"/>
+  <circle cx="944" cy="374" r="48" fill="#063F3B"/>
+  <circle cx="862" cy="532" r="48" fill="#FFFFFF"/>
+  <path d="M666 178c-110 72-172 176-184 313-12 134-91 195-218 183" stroke="#FF6A2A" stroke-width="28" fill="none" stroke-linecap="round" stroke-dasharray="1 56"/>
+  <text x="124" y="232" fill="#063F3B" font-family="Arial, Tahoma, sans-serif" font-size="78" font-weight="800">
+    <tspan x="124" dy="0">“Bẫy”</tspan>
+    <tspan x="124" dy="90">đa kênh</tspan>
+  </text>
+  <text x="130" y="430" fill="#063F3B" font-family="Arial, Tahoma, sans-serif" font-size="34" font-weight="700">
+    <tspan x="130" dy="0">Có mặt ở mọi nơi</tspan>
+    <tspan x="130" dy="48">không đồng nghĩa với</tspan>
+    <tspan x="130" dy="48">có dấu ấn ở đâu đó.</tspan>
+  </text>
+  <rect x="130" y="622" width="316" height="72" fill="#063F3B"/>
+  <text x="162" y="668" fill="#FFFFFF" font-family="Arial, Tahoma, sans-serif" font-size="24" font-weight="800">TẬP TRUNG ĐỂ SÂU</text>
+</svg>

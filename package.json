@@ -1,0 +1,49 @@
+{
+  "name": "noi-dung-cham-lucy-pham",
+  "version": "0.0.3",
+  "private": true,
+  "type": "module",
+  "emdash": {
+    "label": "Blog",
+    "seed": "seed/seed.json"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "deploy": "node scripts/cloudflare-one-click-deploy.mjs",
+    "deploy:worker": "astro build && wrangler deploy",
+    "typecheck": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^13.1.7",
+    "@astrojs/react": "^5.0.0",
+    "@emdash-cms/cloudflare": "^0.12.0",
+    "@emdash-cms/plugin-forms": "^0.2.2",
+    "@emdash-cms/plugin-webhook-notifier": "^0.1.3",
+    "astro": "^6.0.1",
+    "emdash": "^0.12.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.7",
+    "@astrojs/node": "^10.1.1",
+    "@cloudflare/workers-types": "^4.20260305.1",
+    "better-sqlite3": "^12.10.0",
+    "wrangler": "^4.83.0"
+  },
+  "cloudflare": {
+    "bindings": {
+      "DB": {
+        "description": "D1 database for EmDash CMS content, posts, pages, menus and admin data."
+      },
+      "MEDIA": {
+        "description": "R2 bucket for uploaded media and website images. The deploy script uploads files from `public/` automatically."
+      },
+      "SESSION": {
+        "description": "KV namespace for EmDash and Astro session data."
+      }
+    }
+  }
+}

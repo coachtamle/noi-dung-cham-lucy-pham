@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 825" role="img" aria-labelledby="title desc">
+  <title id="title">Làm nghề content từ con số 0</title>
+  <desc id="desc">Thumbnail phong cách editorial cho bài viết hướng dẫn người mới làm content.</desc>
+  <rect width="1200" height="825" fill="#EDF7F6"/>
+  <rect x="70" y="74" width="1060" height="677" fill="#F8F0DC"/>
+  <rect x="706" y="116" width="338" height="424" fill="#FF6A2A"/>
+  <circle cx="878" cy="326" r="128" fill="#FFE56E"/>
+  <circle cx="835" cy="293" r="15" fill="#063F3B"/>
+  <circle cx="917" cy="293" r="15" fill="#063F3B"/>
+  <path d="M818 363c42 42 89 42 131 0" stroke="#063F3B" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M690 624c58-96 147-139 269-130 79 6 132-15 160-64" stroke="#00A7A7" stroke-width="34" fill="none" stroke-linecap="round"/>
+  <text x="122" y="210" fill="#063F3B" font-family="Arial, Tahoma, sans-serif" font-size="66" font-weight="800">
+    <tspan x="122" dy="0">Làm nghề</tspan>
+    <tspan x="122" dy="82">content</tspan>
+    <tspan x="122" dy="82">từ con số 0</tspan>
+  </text>
+  <text x="126" y="502" fill="#063F3B" font-family="Arial, Tahoma, sans-serif" font-size="33" font-weight="700">
+    <tspan x="126" dy="0">Lộ trình thực tế cho người mới:</tspan>
+    <tspan x="126" dy="47">tư duy, thực hành, tìm việc</tspan>
+    <tspan x="126" dy="47">và xây thương hiệu cá nhân.</tspan>
+  </text>
+  <rect x="126" y="650" width="260" height="70" fill="#063F3B"/>
+  <text x="157" y="695" fill="#FFFFFF" font-family="Arial, Tahoma, sans-serif" font-size="24" font-weight="800">START SMART</text>
+</svg>

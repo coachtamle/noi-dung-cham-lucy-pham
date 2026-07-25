@@ -1,0 +1,590 @@
+NỘI DUNG TEXT WEBSITE - NỘI DUNG XANH
+
+Nguồn: D:\Học AI\Template Emdash\Nội dung xanh
+
+Ngày xuất file: 24/07/2026
+
+==============================
+TRANG CHỦ
+==============================
+
+Content Strategist - Nội Dung Xanh
+Nội dung là cầu nối giữa
+Doanh nghiệp và khách hàng,
+giữa giá trị và niềm tin!
+Mình giúp doanh nghiệp xây dựng chiến lược nội dung dựa trên sự thấu cảm,
+chuyển hóa những giá trị cốt lõi thành thông điệp gần gũi với khách hàng,
+để thương hiệu không chỉ được biết đến mà còn được thấu hiểu và tin tưởng.
+Khám phá dịch vụ
+Đọc blog
+12 năm
+đồng hành cùng nội dung có chiều sâu
+
+12
+năm kinh nghiệm
+trong nghề content
+20+
+nhãn hàng đã tư vấn
+& sản xuất nội dung
+3.000+
+nội dung đã sản xuất
+cho cá nhân & doanh nghiệp
+
+"Trao đi giá trị bằng sự thấu cảm và lòng chân thành. Đồng hành cùng cá nhân, doanh nghiệp xây dựng nội dung mang dấu ấn thương hiệu!"
+_Bùi Minh Trang_
+
+Dự án đã đồng hành
+{projectLogoLoop.map((logo) => (
+{logo.src ? (
+) : (
+)}
+))}
+
+NAMMON Square
+Ngọc Tín Holdings
+
+Về Trang
+12 năm viết lách và mình vẫn chưa muốn dừng lại!
+Mình đến với nghề Content từ năm 2014, bắt đầu trong 1 team có thể triển khai Marketing online tổng thể.
+Tới năm 2015, mình chính thức đi theo con đường freelance. Năm 2016, "Nội Dung Xanh" ra đời từ chính gợi ý từ khách hàng mà mình phục vụ.
+Suốt nhiều năm qua, điều giữ mình ở lại với nghề không chỉ là tình yêu với viết lách và sự sáng tạo mà còn là niềm vui khi được lắng nghe những câu chuyện khác nhau, được học hỏi từ nhiều lĩnh vực và được kết nối với những con người tử tế!
+Đọc thêm
+
+==============================
+VỀ TÔI
+==============================
+
+Content Strategist - Nội Dung Xanh
+Bùi Minh Trang
+Mình giúp doanh nghiệp xây dựng chiến lược nội dung dựa trên sự thấu cảm,
+chuyển hóa những giá trị cốt lõi thành thông điệp gần gũi với khách hàng,
+để thương hiệu không chỉ được biết đến mà còn được thấu hiểu và tin tưởng.
+Liên hệ hợp tác
+Đọc blog
+Giá trị cốt lõi
+"Niềm tin là sự khởi đầu của mọi sự đồng hành!"
+Với mình, mỗi khách hàng tìm đến không đơn thuần là một cơ hội hợp tác mà là một lần niềm tin được trao gửi.
+Bởi đằng sau mỗi dự án không chỉ là những bài toán về thương hiệu hay kinh doanh mà còn là những khát vọng, trăn trở và kỳ vọng mà người chủ doanh nghiệp chỉ sẵn sàng chia sẻ khi có đủ sự tin tưởng và an tâm.
+Và sau mỗi buổi tư vấn, mình càng tin rằng trách nhiệm của bản thân không dừng lại ở việc xây dựng chiến lược nội dung hay phát triển thương hiệu. Điều quan trọng hơn là giúp doanh nghiệp làm rõ những giá trị họ theo đuổi, chuyển hóa những giá trị ấy thành những câu chuyện có sức kết nối, để niềm tin từ bên trong thương hiệu có thể chạm đến trái tim khách hàng.
+Quan điểm làm nghề
+Nội dung không chỉ là câu chữ hay kỹ thuật viết!
+Càng làm nghề lâu, mình càng nhận ra rằng nội dung không chỉ là câu chữ hay kỹ thuật viết.
+Đằng sau mỗi bài viết là một doanh nghiệp đang nỗ lực tạo ra giá trị, là những con người
+đang theo đuổi một điều họ tin tưởng và là những khách hàng đang tìm kiếm một giải pháp
+phù hợp cho mình.
+Bởi vậy, mình dành thời gian lắng nghe nhiều hơn, tìm hiểu sâu hơn về doanh nghiệp, sản phẩm
+và khách hàng để từ đó truyền tải đúng thông điệp, tới đúng người cần, để thương hiệu không
+chỉ được biết đến mà còn được thấu hiểu và tin tưởng.
+Bên cạnh việc đồng hành cùng cá nhân & doanh nghiệp, mình cũng mong muốn chia sẻ kiến thức
+và kinh nghiệm cho những người muốn theo đuổi nghề Content. Bởi mình hiểu những khó khăn
+khi phải bắt đầu từ con số 0, đặc biệt là sự cạnh tranh trong thời đại công nghệ và AI
+phát triển như vũ bão.
+NGUYÊN TẮC LÀM NGHỀ
+Liên hệ trao đổi
+KHÔNG CÓ CÔNG THỨC CHUNG CHO MỌI THƯƠNG HIỆU!
+Mỗi doanh nghiệp có một câu chuyện riêng với hành trình phát triển riêng. Vì vậy, không có công thức hay khuôn mẫu chung cho tất cả. Thay vì áp dụng công thức có sẵn, mình lựa chọn bắt đầu từ việc tìm hiểu doanh nghiệp, khách hàng và thị trường để xây dựng chiến lược nội dung phù hợp với từng thương hiệu, từng sản phẩm và từng giai đoạn phát triển.
+CHỌN GIÁ TRỊ TRƯỚC KHI CHỌN DỰ ÁN!
+Mình tin rằng những sản phẩm tử tế được tạo nên bởi những con người tử tế. Vì vậy, mình không chỉ chọn một dự án mà chọn những giá trị mà doanh nghiệp đang theo đuổi. Khi tin vào sản phẩm, tin vào con người và tin vào điều mình đang truyền tải, nội dung sẽ trở nên chân thành và có sức thuyết phục hơn.
+Kết nối
+Niềm tin là nền tảng - Sự thấu cảm là điểm khởi đầu!
+Nếu bạn tin rằng nội dung không chỉ là câu chữ mà còn là sự thấu hiểu và kết nối, Trang rất vui được trò chuyện cùng bạn!
+Facebook
+noidungxanh@gmail.com
+Zalo: 0374357003
+
+==============================
+DỊCH VỤ
+==============================
+
+Dịch vụ
+Xây dựng chiến lược nội dung bài bản & có hệ thống theo mục tiêu kinh doanh.
+Đồng nhất thông điệp truyền thông theo định vị thương hiệu.
+Liên hệ trao đổi
+01
+XÂY DỰNG CHIẾN LƯỢC NỘI DUNG
+Xây dựng chiến lược nội dung bám sát mục tiêu marketing và kinh doanh - Đúng định vị thương hiệu, đúng đối tượng, đúng thời điểm:
+- Nghiên cứu khách hàng, thị trường và đối thủ cạnh tranh.
+- Xây dựng thông điệp truyền thông theo định hướng Marketing.
+- Content plan 3 tháng/6 tháng/1 năm.
+- Content calendar - Lịch sản xuất & đăng bài, tỉ trọng nội dung cho từng kênh.
+- Content Direction - Outline và luận điểm chi tiết cho từng bài viết.
+Doanh nghiệp
+Thương hiệu cá nhân
+Trao đổi →
+02
+CỐ VẤN CHIẾN LƯỢC NỘI DUNG
+Dành cho doanh nghiệp đã có đội ngũ hoặc đang tự triển khai nội dung nhưng cần một người đồng hành để tư vấn chiến lược, rà soát định hướng và nâng cao chất lượng nội dung trên các kênh truyền thông:
+- Review & điều chỉnh chiến lược nội dung.
+- Review nội dung định kỳ.
+- Mentoring Content Team.
+- Xây dựng quy trình sản xuất nội dung.
+Doanh nghiệp
+Agency
+Trao đổi →
+03
+SẢN XUẤT NỘI DUNG
+Sản xuất nội dung đa định dạng dựa trên định vị thương hiệu và mục tiêu truyền thông, giúp doanh nghiệp xây dựng hình ảnh chuyên nghiệp và kết nối hiệu quả với khách hàng:
+- Hồ sơ năng lực (Profile Doanh nghiệp).
+- Bài PR & Booking báo chí.
+- Fanpage/Mạng xã hội.
+- Website.
+- Kịch bản video/TVC.
+Cá nhân
+Doanh nghiệp
+Trao đổi →
+04
+MENTOR THỰC CHIẾN
+Đồng hành cùng những ai muốn làm nghề Content từ con số 0 - Xây dựng tư duy, kỹ năng, kinh nghiệm thực chiến để phát triển nghề nghiệp bài bản và bền vững.
+- Định hướng nghề nghiệp.
+- Xây dựng tư duy nền tảng.
+- Mài giũa kỹ năng viết lách.
+- Phát triển năng lực thực chiến.
+- Portfolio.
+- Xây dựng thương hiệu cá nhân.
+Newbie content
+Freelancer
+Trao đổi →
+
+==============================
+BLOG
+==============================
+
+Blog
+Nơi Trang chia sẻ những góc nhìn, kinh nghiệm, bài học thực tế về Content Marketing, chiến lược nội dung và nghề Content.
+Tất cả
+{pillars.map((p) => (
+))}
+{posts.length === 0 ? (
+Bài viết đang được chuẩn bị, quay lại sớm nhé.
+) : (
+{postsWithMeta.map(() => (
+{getPostFeaturedImage(post.id, post.data.featured_image)
+?
+:
+}
+{tags[0] && }
+{post.data.excerpt &&
+}
+{readingTime > 0 && phút đọc }
+))}
+)}
+"Sự thấu cảm là điểm khởi đầu của mọi kết nối"
+Chủ đề
+{pillars.map((p) => (
+))}
+Liên hệ
+noidungxanh@gmail.com
+Zalo: 0374357003
+
+------------------------------
+
+Viết bài chuẩn SEO từ cơ bản - Tất tật kiến thức từ A đến Z
+
+------------------------------
+
+URL: /posts/viet-bai-chuan-seo-tu-co-ban
+
+Ngày đăng: 15 tháng 1, 2024
+
+Chủ đề: Tài liệu
+
+Tóm tắt: Hiểu đúng bản chất bài chuẩn SEO, từ khóa, bố cục và cách tối ưu khi đăng bài để website lên top Google.
+
+Bài viết chuẩn SEO phục vụ công việc SEO - yếu tố quan trọng để gia tăng thứ hạng website trên các công cụ tìm kiếm. Một bài viết chuẩn SEO chất lượng sẽ là trợ thủ đắc lực giúp tăng lưu lượng truy cập, giữ chân người dùng, nhờ đó tăng cơ hội chốt sale và nâng cao vị thế cho thương hiệu.
+
+Muốn đưa website lên top thì cần thực hiện công việc SEO, bao gồm: phân tích và lên kế hoạch từ khóa, viết bài chuẩn SEO, tối ưu bài viết, phát tán bài viết và nhiều công việc kỹ thuật khác.
+
+1. Hiểu đúng về bài viết chuẩn SEO
+
+Bài chuẩn SEO chỉ khác các dạng bài khác là có thêm từ khóa. Tần suất và vị trí xuất hiện của từ khóa đều tuân thủ theo một số tiêu chuẩn nhất định. Bài chuẩn SEO cũng có nhiều cấp độ từ cơ bản đến cao cấp, tùy vào yêu cầu cụ thể mà chất lượng có thể từ cơ bản (đáp ứng Unique) tới nâng cao (vừa chuẩn SEO, vừa PR hoặc Sale page).
+
+Bài viết chuẩn SEO không phải loại bài đơn giản hay cơ bản như một số người vẫn nói. Bài chuẩn SEO chất lượng cao cần rất nhiều kỹ năng, không chỉ cần đúng Insight, có khả năng chuyển đổi mà hoàn toàn có thể là bài PR để xây dựng thương hiệu.
+
+2. Từ khóa trong bài viết chuẩn SEO
+
+Từ khóa (Keywords) là tập hợp những từ hoặc cụm từ mà người dùng hay sử dụng khi tìm kiếm thông tin trên Google. Trong bài viết chuẩn SEO, ta chia từ khóa thành 2 loại chính:
+
+- Từ khóa chính là từ khóa chủ chốt của bài viết. Vị trí xuất hiện bắt buộc là ở tiêu đề bài viết, mở bài, thân bài. Một bài viết chỉ có duy nhất một từ khóa chính.
+
+- Từ khóa phụ là từ khóa được thêm vào để hỗ trợ cho từ khóa chính. Một bài viết có thể có nhiều từ khóa phụ, có thể xuất hiện ở bất cứ vị trí nào ngoại trừ tiêu đề.
+
+Để đảm bảo độ hài hòa cho bài viết, mật độ từ khóa không nên quá 5% tổng số từ trong bài.
+
+3. Bố cục bài viết chuẩn SEO
+
+Bài viết chuẩn SEO được chia làm 4 phần chính:
+
+3.1. Tiêu đề (TIT)
+
+TIT đóng vai trò đặc biệt quan trọng trong Marketing. Một tiêu đề hấp dẫn sẽ là điểm nhấn khiến người đọc tò mò và quyết định xem tiếp hay không. Nếu có 60 phút viết bài thì hãy dành ra 10 đến 15 phút để suy nghĩ và lựa chọn tiêu đề phù hợp. Lưu ý từ khóa chính phải xuất hiện trên tiêu đề bài viết.
+
+3.2. Mở bài
+
+Mở bài là phần giới thiệu tổng quát, gợi mở, tạo sự tò mò để dẫn dắt người đọc tới thân bài. Mở bài chỉ nên dài từ 4 đến 6 dòng và bắt buộc chứa từ khóa chính.
+
+3.3. Thân bài
+
+Để bài viết dễ đọc, dễ hiểu thì thân bài cần chia thành nhiều đoạn nhỏ, mỗi đoạn có độ dài ít nhất 5 dòng. Các đoạn trong thân bài được đặt tiêu đề riêng biệt nhằm khái quát nội dung trong đoạn đó.
+
+3.4. Kết bài
+
+Tóm tắt lại nội dung toàn bài và nên có thêm "Call to action". Kết bài nên có thêm từ khóa chính (không bắt buộc).
+
+4. Tối ưu và đăng bài lên website chuẩn SEO
+
+Sau khi hoàn thành bài viết chuẩn SEO, tiến hành tối ưu lại bài viết khi đăng lên website:
+
+- Căn chỉnh bài viết theo yêu cầu (phông chữ, cỡ chữ, giãn dòng, căn lề)
+
+- Đặt thẻ H cho bài viết theo cấp độ từ cao xuống thấp
+
+- Chèn ảnh cho bài viết
+
+- Tối ưu URL
+
+- Điền từ khóa
+
+- Viết mô tả ngắn chuẩn SEO
+
+- Chèn link điều hướng, link nội bộ (nếu được yêu cầu)
+
+Trên đây là những thông tin cơ bản nền tảng về bài viết chuẩn SEO. Chỉ cần hiểu đúng về kiến thức và thành thạo về kỹ thuật viết là bạn sẽ có thể chinh chiến trên mọi mặt trận.
+
+------------------------------
+
+Tiếp thị trao quyền - Xu hướng làm nội dung mới trong Marketing
+
+------------------------------
+
+URL: /posts/tiep-thi-trao-quyen
+
+Ngày đăng: 20 tháng 2, 2024
+
+Chủ đề: Content thấu cảm
+
+Tóm tắt: Thay vì khai thác nỗi sợ, thương hiệu hiện đại đang chuyển sang trao quyền cho khách hàng bằng nội dung truyền cảm hứng và tích cực.
+
+Nỗi sợ là một loại cảm xúc mạnh mẽ được khai thác trong nhiều lĩnh vực, đặc biệt là marketing. Trong truyền thông, nỗi sợ được tận dụng để thu hút sự chú ý và thúc đẩy hành động của người tiêu dùng. Nhưng nếu không dùng nỗi sợ thì còn có cách nào hiệu quả hơn không?
+
+1. Nỗi sợ - Cơ chế đảm bảo khả năng sinh tồn
+
+Nỗi sợ là một trong những bản năng quan trọng của con người. Nhờ có nỗi sợ mà chúng ta mới tồn tại và phát triển qua hàng triệu năm tiến hóa. Nỗi sợ là một phần của hệ thống phòng vệ tự nhiên, giúp con người nhận diện nguy hiểm và điều chỉnh hành vi nhằm giảm thiểu rủi ro.
+
+Thời tiền sử, tổ tiên ta chủ yếu đối mặt với nỗi sợ vật lý như thiếu thức ăn, động vật nguy hiểm, thời tiết. Con người hiện đại lại bị ảnh hưởng nhiều bởi nỗi sợ tâm lý và xã hội như sợ thất bại, sợ bị phán xét, sợ mất kiểm soát và sợ bị bỏ rơi.
+
+2. Tại sao con người dễ bị tác động bởi nỗi sợ?
+
+Hiệu ứng sinh tồn: Bộ não được lập trình để tập trung vào các mối đe dọa nhằm bảo vệ bản thân, phóng đại nguy cơ để đảm bảo an toàn ngay cả khi thực tế không quá đáng sợ.
+
+Hiệu ứng bầy đàn: Con người là sinh vật sống theo nhóm. Khi thấy người khác sợ hãi, chúng ta cũng có xu hướng cảm thấy lo lắng theo vì bộ não coi đó là dấu hiệu nguy hiểm thực sự.
+
+Sự khuếch đại của truyền thông: Truyền thông và mạng xã hội có xu hướng tập trung vào những tin tức giật gân, tiêu cực vì chúng thu hút sự chú ý nhiều hơn.
+
+3. Tận dụng nỗi sợ trong Marketing
+
+Nỗi sợ không chỉ ảnh hưởng đến tâm lý con người mà còn là một công cụ Marketing mạnh mẽ. Khi được sử dụng hợp lý, nỗi sợ có thể thu hút sự chú ý, thúc đẩy hành động mua hàng và lan truyền thông điệp nhanh chóng.
+
+Hiệu ứng Negativity Bias khiến não bộ con người ghi nhớ và phản ứng mạnh mẽ hơn với những thông tin tiêu cực so với thông tin tích cực. Đây là lý do vì sao những chiến dịch marketing xoáy sâu vào nỗi sợ thường có nhiều lượt xem và chia sẻ.
+
+4. Vì sao chiến thuật đánh vào nỗi sợ đang dần lỗi thời?
+
+4.1. Người tiêu dùng nhạy bén hơn với chiến thuật "gây sợ"
+
+Trong thời đại thông tin tràn ngập, người tiêu dùng đã trở nên nhạy bén hơn, tinh tường hơn và phân biệt được những cảnh báo chân thành và các chiêu trò marketing. Hiệu ứng "bão hòa nỗi sợ" xảy ra khi khách hàng tiếp xúc quá nhiều với thông điệp gây sợ hãi, họ bắt đầu trở nên hoài nghi và không còn dễ bị thuyết phục như trước.
+
+4.2. Dọa dẫm khách hàng khiến thương hiệu gặt trái đắng
+
+Mặc dù chiến thuật "gây sợ" có thể lấy được sự chú ý ban đầu nhưng nếu lạm dụng sẽ ảnh hưởng lớn tới uy tín thương hiệu, làm giảm lòng trung thành và khiến khách hàng cảm thấy bất an về thương hiệu.
+
+4.3. Xu hướng chuyển dịch từ tâm lý "phòng vệ" sang "phát triển"
+
+Tâm lý học tích cực cho thấy con người ngày càng ưu tiên sự phát triển bản thân và các giải pháp tích cực hơn là chỉ né tránh rủi ro. Thay vì quảng cáo bằng cách nhấn mạnh vào sự thiếu hụt, các thương hiệu hiện tập trung vào lợi ích tích cực và sự phát triển bền vững.
+
+5. Tiếp thị trao quyền - Xu hướng làm nội dung mới
+
+Thay vì tiếp tục dựa vào chiến thuật "dọa dẫm", tương lai của marketing sẽ tập trung vào việc "trao quyền" cho người tiêu dùng. Một quy tắc hữu ích là áp dụng tỷ lệ 3:1 - ba thông điệp tích cực cho mỗi cảnh báo.
+
+Sử dụng ngôn ngữ khích lệ thay vì hù dọa
+
+Thay vì nói "Bạn không đủ tốt nếu chưa làm X", hãy sử dụng "Hãy trở thành phiên bản tốt nhất của chính bạn!" Cách tiếp cận này không chỉ giúp khách hàng cảm thấy tốt hơn về bản thân mà còn tạo ra cảm giác tích cực và thúc đẩy hành động.
+
+Tạo nội dung giáo dục thay vì chỉ bán hàng
+
+Người tiêu dùng ngày nay tìm kiếm thông tin có giá trị thay vì chỉ bị thúc ép mua sản phẩm. Cung cấp cho họ những kiến thức hữu ích sẽ giúp xây dựng sự tin tưởng và thúc đẩy họ hành động vì những lợi ích lâu dài.
+
+Xây dựng cộng đồng và truyền cảm hứng
+
+Việc xây dựng một cộng đồng tích cực nơi khách hàng có thể trao đổi, học hỏi và hỗ trợ lẫn nhau sẽ giúp xây dựng lòng trung thành lâu dài. Nike đã thành công khi tạo ra các chiến dịch như "Just Do It" khuyến khích mọi người tham gia vào lối sống lành mạnh thay vì chỉ tập trung vào việc bán giày.
+
+Đừng bán sản phẩm bằng nỗi sợ, hãy bán giải pháp bằng niềm tin. Khách hàng hiện đại không cần thêm lo lắng, họ cần người đồng hành tin cậy trên hành trình phát triển bản thân.
+
+------------------------------
+
+Xây thương hiệu = Xây đường mòn trong tâm trí
+
+------------------------------
+
+URL: /posts/xay-thuong-hieu-xay-duong-mon-trong-tam-tri
+
+Ngày đăng: 10 tháng 3, 2024
+
+Chủ đề: Content thấu cảm
+
+Tóm tắt: Xây dựng thương hiệu thực chất là cuộc chiến giành chỗ đứng trong tâm trí khách hàng. Thương hiệu nào tạo được con đường quen thuộc - thương hiệu đó thắng.
+
+Xây dựng thương hiệu thực chất là cuộc chiến giành "chỗ đứng" trong tâm trí khách hàng. Thương hiệu nào tạo được con đường quen thuộc trong tâm trí họ, thương hiệu đó thắng. Nghe có vẻ phức tạp, nhưng tất cả bắt nguồn từ cách bộ não hoạt động mỗi khi tiếp nhận thông tin.
+
+1. Bộ não tiếp nhận thông tin dù chỉ lướt qua
+
+Khi bạn lướt qua một logo, một màu sắc hay một câu chữ trong 1-2 giây, bạn nghĩ mình chẳng ghi nhớ gì nhưng bộ não không vận hành theo kiểu đó. Ngay khi thấy tín hiệu, dù rất nhỏ và rất nhanh, bộ não lập tức xử lý thông tin đó.
+
+Đầu tiên, giác quan sẽ hoạt động như một cảm biến ghi nhận màu sắc, hình dạng, con chữ rồi chuyển tất cả thành tín hiệu điện hóa. Toàn bộ quá trình này diễn ra dưới mức nhận thức. Tức là dù bạn không hề cảm thấy mình đang tiếp nhận thông tin, nhưng não vẫn âm thầm lưu lại.
+
+Sau khi xử lý, não sẽ tạo ra những ký ức siêu ngắn. Phần thông tin nhạt nhòa sẽ bị bỏ qua còn những thứ nổi bật như màu sắc mạnh, hình dạng khác lạ hoặc nội dung chứa cảm xúc sẽ được giữ lại như những "dấu chấm" nhỏ nằm rải rác trong bản đồ ký ức.
+
+2. Lặp lại đủ lâu, những "dấu chấm" trở thành "đường mòn"
+
+Những ký ức siêu ngắn nếu không được nhắc lại sẽ dần dần biến mất. Để thông điệp tạo thành ký ức dài hạn, cần lặp lại đủ nhiều để bộ não nhận ra sự quen thuộc. Khi đó những mảnh ký ức rời rạc sẽ nối lại và tạo thành một "con đường". Càng tiếp nhận thêm thông tin, "con đường" này càng ngày càng rõ hơn.
+
+Trong hành vi học có hiệu ứng tiếp xúc lặp lại - nghĩa là chỉ cần một thông tin xuất hiện nhiều lần, con người sẽ có xu hướng thích nó hơn, tin nó hơn. Bộ não hoạt động theo nguyên tắc tối ưu năng lượng nên khi thấy thứ gì đủ nhiều lần, bộ não sẽ đánh dấu bằng nhãn "an toàn, có thể tin được". Từ đó hình thành chuỗi phản ứng tự nhiên: Lặp lại → Quen → Cảm giác an toàn → Đưa ra lựa chọn.
+
+Đó là lý do nhiều thương hiệu không cần quá hào nhoáng. Họ chỉ cần xuất hiện đều đặn, đúng một thông điệp, đúng tông giọng và cứ thế "găm" vào tiềm thức khách hàng.
+
+3. Cảm xúc là "chất keo" giúp ký ức bám sâu hơn
+
+Trong khoa học thần kinh, có hai yếu tố quyết định việc thông tin có nằm lại trong ký ức dài hạn hay không: mức độ lặp lại và cường độ cảm xúc.
+
+Bộ não không ưu tiên thông tin quan trọng nhất mà ưu tiên theo mức độ cảm xúc mà nó cảm nhận được. Khi ta tiếp xúc với thông tin kèm theo một cảm xúc (tò mò, thích thú, sợ hãi, tức giận), trung tâm cảm xúc được kích hoạt mạnh và gửi lệnh "ưu tiên lưu trữ" đến vùng mã hóa ký ức. Nhờ đó, những đường dẫn ký ức được hình thành nhanh hơn, mạnh hơn và khó biến mất hơn.
+
+Điều này lý giải vì sao thương hiệu cần lặp lại nhưng không thể lặp lại khô khan. Bạn phải khiến khách hàng cảm nhận được điều gì đó mỗi lần họ nhìn thấy bạn.
+
+4. Thương hiệu hình thành không đến từ những khoảnh khắc bùng nổ
+
+Thương hiệu không hình thành nhờ vài khoảnh khắc viral mà nhờ sự kiên trì và lặp lại có chiến lược:
+
+- Nội dung xuất hiện đều
+
+- Thông điệp nhất quán
+
+- Cảm xúc được kích hoạt đúng cách
+
+- Màu sắc, hình ảnh, giọng điệu thống nhất
+
+- Trải nghiệm khách hàng được duy trì ổn định
+
+Tuy nhiên điều khó nhất cũng chính là sự bền bỉ. Nhiều người biết họ cần nhất quán, phải lặp lại nhưng rất ít người đủ kiên trì để khách hàng có thể hình thành đường mòn trong tâm trí.
+
+Xây thương hiệu không phải cuộc đua của người giỏi nhất mà là cuộc đua của sự bền bỉ và kiên trì.
+
+------------------------------
+
+\"Bẫy\" đa kênh - Quá nhiều đồng nghĩa với không có gì
+
+------------------------------
+
+URL: /posts/bay-da-kenh
+
+Ngày đăng: 5 tháng 4, 2024
+
+Chủ đề: Blog
+
+Tóm tắt: Tôi từng ôm đồm website, fanpage, YouTube, TikTok cùng lúc và kênh nào cũng hời hợt. Đây là bài học tôi rút ra sau khi kiệt sức vì đa kênh.
+
+Việc tạo nội dung đa kênh không phải lúc nào cũng mang lại kết quả tốt. Điều quan trọng là phải hiểu rõ đối tượng mục tiêu của bạn và chọn lựa kênh phù hợp để tiếp cận họ. Đôi khi, tập trung vào một số kênh chất lượng hơn có thể mang lại hiệu quả tốt hơn việc phân tán sự chú ý trên nhiều nền tảng.
+
+1. Thất bại vì làm quá nhiều kênh
+
+Vốn là người làm nghề Content nên cái mình có sẵn chính là khả năng làm nội dung. Có một thời gian mình không chỉ làm quá nhiều kênh mà còn làm quá nhiều ngách. Mình có một website, một fanpage và trang cá nhân chia sẻ kiến thức về content. Mình thậm chí còn lập cả kênh TikTok và YouTube mang tên Nội Dung Xanh.
+
+Bởi vì mình có khả năng vừa làm nội dung dạng văn bản, lại vừa có thể làm dạng podcast và dựng video cơ bản nên không muốn bỏ qua kênh nào. Tuy nhiên, vì chỉ có một mình mình làm nên kênh nào cũng hời hợt. Website và fanpage của mình cả năm chỉ lên được 3-4 bài viết. Kênh YouTube và TikTok cũng lên rất chậm bởi nội dung chưa được chuyên sâu.
+
+Mình chỉ thực sự tỉnh ngộ khi nhận thấy: "Kênh nào mình làm cũng chẳng đâu vào đâu".
+
+2. Đừng ham số lượng, hãy tập trung vào chất lượng
+
+Mình đã từng tự nhủ, tại sao làm nội dung cho khách hàng thì có hiệu quả còn làm cho chính mình lại không? Và mình nhận ra vấn đề không phải là do kỹ năng viết lách mà là do mình đã mất tập trung.
+
+Mỗi người chúng ta chỉ có một nguồn lực nhất định. Việc nguồn lực bị chia nhỏ và phân bổ ở quá nhiều nơi giống như ta thả một nhúm muối ra sông vậy. Rõ ràng là làm nhiều kênh thế nhưng lại chẳng có điểm nhấn gì.
+
+Hiểu được điều đó, mình bắt đầu bỏ hết những kênh tạm thời chưa cần thiết. Mình sẽ chỉ tập trung vào những kênh ra chuyển đổi bền vững và nội dung có thể tái sử dụng.
+
+3. Cách lựa chọn kênh triển khai phù hợp
+
+Không phải kênh nào cũng phù hợp vì mỗi cá nhân, mỗi lĩnh vực, mỗi thương hiệu lại có những đặc thù riêng. Trước khi lựa chọn tham gia xây dựng nội dung trên bất cứ kênh nào, cần thực hiện theo các bước sau:
+
+- Bước 1: Nghiên cứu đối tượng mục tiêu về độ tuổi, giới tính, sở thích, hành vi trực tuyến và nhu cầu của họ.
+
+- Bước 2: Phân tích kênh, đánh giá tính năng và lợi ích của từng kênh đối với mục tiêu của bạn.
+
+- Bước 3: Đánh giá chiến lược, xác định ngân sách, thời gian và tài nguyên bạn có sẵn.
+
+- Bước 4: Kiểm tra và tinh chỉnh theo dữ liệu thu thập được.
+
+- Bước 5: Tạo ra nội dung chất lượng và phù hợp cho mỗi kênh.
+
+- Bước 6: Đo lường và phân tích hiệu suất của mỗi kênh.
+
+4. Cách tạo nội dung nhanh chóng cho nhiều kênh một lúc
+
+Khi triển khai kênh, chúng ta thường lựa chọn ít nhất 2 kênh làm song hành. YouTube và TikTok là 2 nền tảng video nên có thể dùng chung nội dung. Facebook, website, LinkedIn hay Substack có thể dùng chung nội dung dạng văn bản.
+
+Ngoài ra, chúng ta vẫn có thể đồng thời xây dựng cả kênh dạng văn bản lẫn kênh dạng video bằng cách tái sử dụng nội dung. Ví dụ: với một bài viết dài 2000 từ, ta có thể đăng lên website, Facebook cá nhân, Group. Sau đó, ta sử dụng chính bài viết này chỉnh sửa thành kịch bản để làm video, làm podcast.
+
+Lời khuyên dành cho bạn là hãy tập trung vào 1-2 kênh nhất định, đầu tư nội dung chất lượng, làm đều đặn và kiên trì trong thời gian dài. Không phải lúc nào triển khai nội dung đa kênh cũng mang lại hiệu quả. Hãy cẩn thận kẻo rơi vào "bẫy" đa kênh!
+
+------------------------------
+
+9 cách kiếm tiền từ blog khi sở hữu kỹ năng viết lách
+
+------------------------------
+
+URL: /posts/9-cach-kiem-tien-tu-blog
+
+Ngày đăng: 12 tháng 5, 2024
+
+Chủ đề: Blog
+
+Tóm tắt: Bất kể ai có kỹ năng viết lách đều nên sở hữu một blog. Khi có traffic tốt, blog không chỉ giúp bạn kết nối với độc giả mà còn là công cụ kiếm tiền online tuyệt vời.
+
+Bất kể ai có kỹ năng viết lách đều nên sở hữu một blog. Khi sở hữu một blog có traffic tốt, bạn sẽ có được rất nhiều lợi ích. Blog không chỉ giúp ta kết nối với độc giả, xây dựng cộng đồng, xây dựng thương hiệu cá nhân mà còn là công cụ kiếm tiền online tuyệt vời.
+
+Một blog có thể được coi là ổn để bắt đầu kiếm tiền khi đạt tối thiểu 100 lượt truy cập mỗi ngày. Khi đó, chúng ta hoàn toàn có thể bắt đầu kiếm tiền thụ động hoặc chủ động từ chính blog của mình.
+
+1. Quảng cáo trực tiếp cho các nhãn hàng
+
+Khi blog của bạn có lượng truy cập tốt và ổn định, sẽ có rất nhiều nhãn hàng tìm đến để đặt quảng cáo. Bạn có thể bán không gian quảng cáo trên blog của mình để giới thiệu về sản phẩm, dịch vụ của họ. Khu vực quảng cáo có thể là một hình ảnh banner nhỏ trên trang hoặc một bài viết PR.
+
+Khi nhận quảng cáo kiểu này, bạn cần xác định mức giá dựa trên lượt truy cập hàng ngày, lượt xem bài viết, hoặc theo vị trí đặt quảng cáo như sidebar, banner đầu trang, bài viết tài trợ.
+
+2. Kiếm tiền từ Google AdSense
+
+Đây là một trong những hình thức kiếm tiền thụ động từ blog mà hầu như ai cũng sử dụng. Khi website của bạn có từ 30 nội dung chất lượng và tuổi thọ tối thiểu 1 năm, bạn đã đủ điều kiện để đăng ký chương trình Google AdSense. Bằng cách đặt mã quảng cáo trên blog, bạn sẽ kiếm được tiền khi người đọc click vào quảng cáo đó. Có rất nhiều blog mỗi tháng có thể có được thu nhập thụ động trên 500 USD khi có traffic tốt.
+
+3. Kiếm tiền bằng Affiliate Marketing
+
+Khi sở hữu một lượng truy cập đều đặn và ổn định, bạn không nên bỏ qua hình thức affiliate marketing. Bạn có thể tham gia các chương trình tiếp thị liên kết, viết bài và gắn link quảng bá sản phẩm hoặc dịch vụ của các đối tác. Khi có người click vào liên kết đó và mua hàng, bạn sẽ nhận được hoa hồng.
+
+Với một bài viết quảng bá như vậy, đơn hàng vẫn có thể phát sinh kể cả khi những ngày tới bạn không làm gì. Có nhiều mạng lưới cho bạn tham gia tiếp thị liên kết như Amazon, TikTok, Shopee, ShareASale, ClickBank.
+
+4. Bán sản phẩm kỹ thuật số
+
+Nếu bạn có kiến thức chuyên môn trong lĩnh vực nhất định, bạn có thể tạo ra các sản phẩm kỹ thuật số như ebook, khóa học trực tuyến, tài liệu và bán chúng trên blog của mình. Tuy nhiên, bạn cần chú ý đến việc xây dựng nội dung chất lượng và đúng Insight. Nếu có thương hiệu cá nhân tốt sẽ là nền tảng tuyệt vời để bán hàng thành công hơn.
+
+5. Hội viên (Membership)
+
+Nếu bạn là chuyên gia trong lĩnh vực nào đó, bạn có thể bán các nội dung có tính chuyên sâu hơn. Tạo ra một khu vực hội viên trên blog của bạn, nơi mà độc giả phải trả phí để truy cập vào nội dung đặc biệt hoặc các ưu đãi độc quyền.
+
+6. Hỗ trợ từ độc giả (Donate)
+
+Kiếm tiền từ Donate là hình thức được nhiều blogger sử dụng. Nếu độc giả thấy bài viết giá trị, họ có thể donate cho bạn bằng cách chuyển khoản ngân hàng. Có rất nhiều blogger có thể kiếm hơn 10 triệu một tháng chỉ từ donate. Tuy nhiên để đạt được điều này thì nội dung của bạn phải thật hữu ích và thương hiệu cá nhân đã có tầm ảnh hưởng nhất định.
+
+7. Bán Guest Post
+
+Guest Post là hình thức được rất nhiều người lựa chọn, nhất là lĩnh vực SEO trong Marketing. Theo đó, khách hàng sẽ lựa chọn các blog có traffic tốt để đặt bài viết lên đó. Trên bài viết, ta sẽ gắn một đường link dẫn về website muốn tăng traffic. Hiện nay, giá một guest post có thể từ 100k đến 2 triệu tùy vào chất lượng blog.
+
+8. Bán blog
+
+Rất nhiều người có nhu cầu sở hữu blog nhưng không có thời gian làm. Do vậy, họ chọn cách mua các blog đã được xây dựng sẵn. Các blog như vậy thường đã có sẵn tên miền, hosting, nội dung và lượng truy cập nhất định. Giá blog có thể từ 10 triệu đến hơn 50 triệu một blog.
+
+9. Trở thành Influencer
+
+Khi blog của bạn đã thu hút sự chú ý, đừng ngần ngại liên hệ với các nhãn hàng hoặc doanh nghiệp liên quan để hợp tác. Khi trở thành influencer thì thu nhập của bạn sẽ đến từ booking của nhãn hàng.
+
+Sở hữu một blog tốt sẽ giúp bạn kết nối và xây dựng cộng đồng. Blog chính là công cụ tuyệt vời để kiếm tiền online khi bạn sở hữu kỹ năng viết lách. Với sự kiên trì, chăm chỉ và biết cách tối ưu blog, bạn sẽ tối ưu được nguồn thu nhập cả chủ động lẫn thụ động.
+
+------------------------------
+
+Làm nghề content từ con số 0 - Kinh nghiệm cho người mới bắt đầu
+
+------------------------------
+
+URL: /posts/lam-nghe-content-tu-con-so-0
+
+Ngày đăng: 18 tháng 6, 2024
+
+Chủ đề: Tài liệu
+
+Tóm tắt: Lộ trình thực tế để bắt đầu làm nghề content từ người chưa có kinh nghiệm, từ cách thử sức đến xây dựng thương hiệu cá nhân và kinh doanh chuyên môn.
+
+Theo HubSpot, 70% các doanh nghiệp có kế hoạch tăng ngân sách cho content marketing. Có tới 91% doanh nghiệp B2B và 86% doanh nghiệp B2C đang sử dụng content marketing. Nghề content đang trở thành một trong những nghề "hot" và ngày càng có vị trí quan trọng trong nhiều lĩnh vực.
+
+1. Nghề content là nghề gì?
+
+Content là nội dung, nghề content là nghề làm nội dung. Nội dung được thể hiện dưới nhiều hình thức như dạng text, ảnh, video, audio. Người làm nghề content sẽ tạo ra, biên tập ra các loại nội dung dưới một hoặc nhiều hình thức nhằm thu hút người đọc và người dùng.
+
+Nghề làm content có thể được phân loại theo nhiều cách khác nhau:
+
+- Trong lĩnh vực truyền thông và Marketing: Copywriter, Content Strategist, Branding Content
+
+- Trong lĩnh vực báo chí: Nhà báo, cộng tác viên báo chí, biên tập viên
+
+- Trong lĩnh vực sách: Nhà văn, nhà thơ, người chấp bút, biên tập sách
+
+2. Tiềm năng kiếm tiền từ nghề content
+
+Nghề content là nghề có tiềm năng phát triển vô cùng lớn. Xét về thu nhập, một người làm Content marketing trong các công ty truyền thông có thể đạt mức lương từ 10 triệu đến 20-30 triệu một tháng tùy kinh nghiệm và năng lực. Một blogger có thể có được thu nhập thụ động hàng tháng lên đến 7000 đô. Tiềm năng kiếm tiền khi làm nghề Content là không giới hạn nếu bạn có đủ sự sáng tạo, kỹ năng và kiên trì.
+
+3. Làm nghề content có cần bằng cấp không?
+
+Không nhất thiết phải có bằng cấp chuyên ngành để làm nghề Content. Tuy nhiên nếu bạn có bằng cấp liên quan đến lĩnh vực Báo chí, Truyền thông và Marketing thì có thể giúp bạn có lợi thế khi tìm việc và phát triển sự nghiệp trong lĩnh vực này.
+
+Tóm lại, dù bạn là ai, thuộc bất cứ ngành nghề nào - miễn là bạn yêu thích nghề content thì đều có thể thử sức với công việc này.
+
+Bạn vẫn có thể làm nghề content với xuất phát điểm là một người không giỏi viết lách. Ngoài sử dụng con chữ, bạn vẫn có thể sáng tạo nội dung dưới dạng hình ảnh, video. Kỹ năng viết lách có thể cải thiện nếu bạn chăm chỉ luyện tập.
+
+4. Lộ trình phát triển trong nghề content cho người mới
+
+4.1. Xác định mục tiêu cuộc sống của bạn
+
+Một người biết được mục tiêu của bản thân sẽ định hình được con đường mà họ muốn lựa chọn. Nếu bạn yêu thích làm công việc văn phòng, bạn sẽ xây dựng kế hoạch để làm việc trong các công ty với kỳ vọng thăng tiến cao. Ngược lại nếu bạn yêu tự do, không thích phụ thuộc vào ai thì bạn có thể theo đuổi con đường freelancer.
+
+4.2. Thử xem mình có hợp với nghề này không
+
+Cách đơn giản nhất để thử xem mình có hợp với nghề content hay không là hãy viết đi, hãy sáng tạo đi. Nếu bạn muốn truyền tải nội dung bằng con chữ thì hãy viết ngay trên trang Facebook cá nhân. Bạn cũng có thể tham gia vị trí thực tập tại các công ty hoặc Agency để được trải nghiệm và học hỏi.
+
+4.3. Xây dựng CV hấp dẫn
+
+Dù bạn quyết định đi làm công ty hay trở thành người làm nội dung tự do thì bạn cũng cần một bản CV hấp dẫn. Hãy điền những kinh nghiệm mà bạn có, những thế mạnh mà bạn sở hữu. Hãy tập hợp những ấn phẩm nội dung tốt nhất mà bạn đã thực hiện để làm demo.
+
+4.4. Nâng cấp kỹ năng, xây dựng thương hiệu cá nhân
+
+Nếu bạn muốn thăng tiến trong công ty thì bạn cần nâng cấp kỹ năng mỗi ngày. Từ việc chỉ viết nội dung, hãy nghĩ đến việc xây dựng kế hoạch nội dung hay xây dựng chiến lược nội dung dài hạn. Nếu như bạn muốn làm freelancer thì hãy chú trọng đến việc xây dựng thương hiệu cá nhân và xây dựng cộng đồng cho riêng mình.
+
+4.5. Xây dựng bảng giá dịch vụ và đóng gói kỹ năng chuyên môn
+
+Để kinh doanh chuyên môn, bạn cần hiểu rõ bản thân mình: biết bản thân có gì, thị trường nhu cầu ra sao, khả năng cung cấp dịch vụ của bạn như thế nào để có kế hoạch đóng gói chuyên môn. Tuy nhiên, để đạt đến trình độ này, bạn cần có kỹ năng chuyên môn, cần lấp đầy những điểm yếu và có một chiến lược thông minh.
+
+5. Các công cụ và kỹ năng cần thiết
+
+Để xây dựng nội dung thì thứ cơ bản nhất mà bạn cần đó là một chiếc máy tính hoặc điện thoại. Ngoài việc sáng tạo nội dung dưới dạng văn bản, bạn cần học thêm kỹ năng làm ảnh và video:
+
+- Phần mềm làm video đơn giản nhất và dễ sử dụng nhất chính là Capcut.
+
+- Phần mềm thiết kế ảnh, làm slide, banner: Canva và các phần mềm thiết kế đồ họa chuyên nghiệp hơn.
+
+- Công cụ đo lường: Google Analytics và các công cụ KPI tích hợp sẵn trên các nền tảng xã hội.
+
+- Công cụ tìm kiếm từ khóa: Google Keyword Planner.
+
+- Công cụ tìm nội dung xu hướng: Google Trends.
+
+Nhìn chung, tiềm năng công việc liên quan đến nghề content còn rất lớn. Tuy nhiên để bám đuổi với nghề và tạo ra thu nhập hơn mức nuôi sống bản thân thì bạn cần liên tục nâng cấp kỹ năng và xây dựng một lộ trình phù hợp.
+
+Nếu bạn cần trang bị thêm kiến thức và kỹ năng, cần người đồng hành trên chặng đường phát triển trong nghề content thì hãy kết nối với Nội Dung Xanh.
+
+==============================
+LIÊN HỆ
+==============================
+
+Liên hệ
+Mỗi thương hiệu đều có một câu chuyện riêng!
+Nếu bạn cần một người lắng nghe, thấu hiểu và đồng hành để chuyển hóa những giá trị mà doanh nghiệp đang theo đuổi thành những thông điệp gần gũi, chân thành và có ý nghĩa - Hãy kết nối ngay với Trang.
+Facebook
+noidungxanh@gmail.com
+Zalo: 0374357003
+
+Facebook: https://web.facebook.com/minhtrang.content.marketing/
+
+Email: noidungxanh@gmail.com
+
+Zalo: 0374357003

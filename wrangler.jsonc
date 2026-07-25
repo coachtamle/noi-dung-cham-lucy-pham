@@ -1,0 +1,26 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "noi-dung-cham-lucy-pham",
+	"main": "./src/worker.ts",
+	"compatibility_date": "2026-02-24",
+	"compatibility_flags": ["nodejs_compat"],
+	"workers_dev": true,
+	"preview_urls": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "noi-dung-cham-lucy-pham-db","database_id": "ac0b13d8-970d-4915-8728-9157b092f252",
+		},
+	],
+	"r2_buckets": [
+		{
+			"binding": "MEDIA",
+			"bucket_name": "noi-dung-cham-lucy-pham-media","preview_bucket_name": "noi-dung-cham-lucy-pham-media",
+		},
+	],
+	"kv_namespaces": [
+		{
+			"binding": "SESSION","id": "1a3b8728232b4cf58b4b4d226bd043c8",
+		},
+	],
+}
